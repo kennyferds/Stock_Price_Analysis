@@ -1,14 +1,13 @@
 The list of Python packages required for stock price analysis:
-
-1. pandas_datareader
-2. pandas
-3. matplotlib
-4. seaborn
-5. ta
-6. statsmodels
-7. numpy
-8. prophet
-9. scikit-learn
-10. plotly
-11. bokeh
+pandas_datareader
+pandas
+matplotlib
+seaborn
+ta
+statsmodels
+numpy
+prophet
+scikit-learn
+plotly
+bokeh
 
